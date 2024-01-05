@@ -12,4 +12,3 @@ Bienvenue dans le monde délicieux du Jeu des Tartes aux Pommes Pendu ! Ce proje
 - **Score et Statistiques :** Suivez votre performance et vos progrès.
 
 
-Supprime ca
