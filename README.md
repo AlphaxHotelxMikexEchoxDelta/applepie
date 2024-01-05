@@ -10,3 +10,6 @@ Bienvenue dans le monde délicieux du Jeu des Tartes aux Pommes Pendu ! Ce proje
 - **Dictionnaire de Mots :** Un vaste choix de mots liés aux tartes aux pommes pour des parties variées.
 - **Interface Utilisateur Intuitive :** Une interface conviviale pour une expérience de jeu agréable.
 - **Score et Statistiques :** Suivez votre performance et vos progrès.
+
+
+Supprime ca
